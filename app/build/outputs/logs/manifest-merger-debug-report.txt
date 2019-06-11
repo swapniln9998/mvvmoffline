@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.google.dagger:dagger-android-support:2.11] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/bcb6e23c96b330dd5e1a1d7640babc04/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/17c7f2d507ee0109f514dd09a939ed32/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.dagger:dagger-android:2.11] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e626805735301a3ae6fc40b8196b48ea/AndroidManifest.xml:16:1-19:12
+MERGED from [com.jakewharton:butterknife:8.7.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/b38fcb32575233352e7337fbb7b2192a/AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/1f8c34f4c433525d0afea458aac24f04/AndroidManifest.xml:15:1-21:12
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/1b1e8ae8dd30d806472728de850ecc82/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6a321f575bd3dccd65f213afa7c78e7a/AndroidManifest.xml:2:1-10:12
+MERGED from [com.birbit:android-priority-jobqueue:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c43b447bb0dad046b6b3b696b59daf88/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7ea3ff864c8b7529e570f221f8bf49e7/AndroidManifest.xml:16:1-24:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0f3a71ceab96a915bc3fcca0fdc43e35/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/49782150560e60a400b00a7c2e5a1bb1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f828bfe7a9c8e5926e1cacee1c1ca16b/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e22610f24262da33427bf33c7558b8bf/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/78ba2e58f056ccbbcf0a407e3d0debf0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/580d83a836fdf14ae8332e9353fb0c7a/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6f24dc1a143e33b94b4eb493e83059f4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9a5751c4bddab82773770650f9938d27/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/396ccef3e457ef4e1bdc49cd81f2eae7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/87dce6bfce7f750ec9471200501f98fb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/46d1e3852b912239e36ff231460fa4e1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7331f1ded3fee0dbf7c85c18fd05def2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7c605b65f3ca19986e3c746881ffb5d5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f73630ed2ee7ea5e6318d0ab2d972795/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/5243f43645197678ef14166279c2e5a7/AndroidManifest.xml:17:1-24:12
+MERGED from [nl.littlerobots.rxlint:rxlint:1.6] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0da637a43e2de408c6581a06aa2641df/AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.persistence:db-framework:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c1f9bdabb51c809e97b4a49162fc16ea/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/3418dcbbabd481e78c53765fb6fb9493/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0a0f32b99ac1a4ef542852dc8c98539a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9ecd71fdebe08fe82f6602a09728a38d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/d9ecfa136bf8a7a5a5c4b1ab7ea1937d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c86634a6642ba965778fbbd46030d7b6/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/89ae92fc1b9e4f4eaa848dc77c56b20f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/cf705fdd58d8ec6cc6bc34d74b6d1f3f/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.birbit:android-priority-jobqueue:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c43b447bb0dad046b6b3b696b59daf88/AndroidManifest.xml:13:5-67
+MERGED from [com.birbit:android-priority-jobqueue:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c43b447bb0dad046b6b3b696b59daf88/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7ea3ff864c8b7529e570f221f8bf49e7/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7ea3ff864c8b7529e570f221f8bf49e7/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f828bfe7a9c8e5926e1cacee1c1ca16b/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f828bfe7a9c8e5926e1cacee1c1ca16b/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:8:5-37:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/17c7f2d507ee0109f514dd09a939ed32/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/17c7f2d507ee0109f514dd09a939ed32/AndroidManifest.xml:25:5-29:19
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6a321f575bd3dccd65f213afa7c78e7a/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6a321f575bd3dccd65f213afa7c78e7a/AndroidManifest.xml:8:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7ea3ff864c8b7529e570f221f8bf49e7/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7ea3ff864c8b7529e570f221f8bf49e7/AndroidManifest.xml:23:5-19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0f3a71ceab96a915bc3fcca0fdc43e35/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0f3a71ceab96a915bc3fcca0fdc43e35/AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:24:5-30:19
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f828bfe7a9c8e5926e1cacee1c1ca16b/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f828bfe7a9c8e5926e1cacee1c1ca16b/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e22610f24262da33427bf33c7558b8bf/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e22610f24262da33427bf33c7558b8bf/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/78ba2e58f056ccbbcf0a407e3d0debf0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/78ba2e58f056ccbbcf0a407e3d0debf0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/580d83a836fdf14ae8332e9353fb0c7a/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/580d83a836fdf14ae8332e9353fb0c7a/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6f24dc1a143e33b94b4eb493e83059f4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6f24dc1a143e33b94b4eb493e83059f4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9a5751c4bddab82773770650f9938d27/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9a5751c4bddab82773770650f9938d27/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/396ccef3e457ef4e1bdc49cd81f2eae7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/396ccef3e457ef4e1bdc49cd81f2eae7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/87dce6bfce7f750ec9471200501f98fb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/87dce6bfce7f750ec9471200501f98fb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/46d1e3852b912239e36ff231460fa4e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/46d1e3852b912239e36ff231460fa4e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7331f1ded3fee0dbf7c85c18fd05def2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7331f1ded3fee0dbf7c85c18fd05def2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7c605b65f3ca19986e3c746881ffb5d5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7c605b65f3ca19986e3c746881ffb5d5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f73630ed2ee7ea5e6318d0ab2d972795/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f73630ed2ee7ea5e6318d0ab2d972795/AndroidManifest.xml:25:5-29:19
+MERGED from [nl.littlerobots.rxlint:rxlint:1.6] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0da637a43e2de408c6581a06aa2641df/AndroidManifest.xml:12:5-20
+MERGED from [nl.littlerobots.rxlint:rxlint:1.6] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0da637a43e2de408c6581a06aa2641df/AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9ecd71fdebe08fe82f6602a09728a38d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9ecd71fdebe08fe82f6602a09728a38d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/d9ecfa136bf8a7a5a5c4b1ab7ea1937d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/d9ecfa136bf8a7a5a5c4b1ab7ea1937d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c86634a6642ba965778fbbd46030d7b6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c86634a6642ba965778fbbd46030d7b6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/89ae92fc1b9e4f4eaa848dc77c56b20f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/89ae92fc1b9e4f4eaa848dc77c56b20f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/cf705fdd58d8ec6cc6bc34d74b6d1f3f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/cf705fdd58d8ec6cc6bc34d74b6d1f3f/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:15:9-39
+	android:name
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:9:9-52
+activity#com.swapnil.mvvm_offline.view.CommentsActivity
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:17:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:21:27-74
+service#com.swapnil.mvvm_offline.domain.services.jobs.SchedulerJobService
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:25:9-26:72
+	android:permission
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:25:18-74
+service#com.swapnil.mvvm_offline.domain.services.jobs.GcmJobService
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:31:13-93
+	android:name
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:29:13-63
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:32:13-34:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:33:17-87
+	android:name
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml:33:25-84
+uses-sdk
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+MERGED from [com.google.dagger:dagger-android-support:2.11] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/bcb6e23c96b330dd5e1a1d7640babc04/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android-support:2.11] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/bcb6e23c96b330dd5e1a1d7640babc04/AndroidManifest.xml:18:3-42
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/17c7f2d507ee0109f514dd09a939ed32/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/17c7f2d507ee0109f514dd09a939ed32/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.dagger:dagger-android:2.11] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e626805735301a3ae6fc40b8196b48ea/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android:2.11] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e626805735301a3ae6fc40b8196b48ea/AndroidManifest.xml:18:3-42
+MERGED from [com.jakewharton:butterknife:8.7.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/b38fcb32575233352e7337fbb7b2192a/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.7.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/b38fcb32575233352e7337fbb7b2192a/AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/1f8c34f4c433525d0afea458aac24f04/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/1f8c34f4c433525d0afea458aac24f04/AndroidManifest.xml:19:5-43
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/1b1e8ae8dd30d806472728de850ecc82/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/1b1e8ae8dd30d806472728de850ecc82/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6a321f575bd3dccd65f213afa7c78e7a/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6a321f575bd3dccd65f213afa7c78e7a/AndroidManifest.xml:6:5-43
+MERGED from [com.birbit:android-priority-jobqueue:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c43b447bb0dad046b6b3b696b59daf88/AndroidManifest.xml:8:5-11:155
+MERGED from [com.birbit:android-priority-jobqueue:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c43b447bb0dad046b6b3b696b59daf88/AndroidManifest.xml:8:5-11:155
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7ea3ff864c8b7529e570f221f8bf49e7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7ea3ff864c8b7529e570f221f8bf49e7/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0f3a71ceab96a915bc3fcca0fdc43e35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0f3a71ceab96a915bc3fcca0fdc43e35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/49782150560e60a400b00a7c2e5a1bb1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/49782150560e60a400b00a7c2e5a1bb1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f828bfe7a9c8e5926e1cacee1c1ca16b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f828bfe7a9c8e5926e1cacee1c1ca16b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e22610f24262da33427bf33c7558b8bf/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e22610f24262da33427bf33c7558b8bf/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/78ba2e58f056ccbbcf0a407e3d0debf0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/78ba2e58f056ccbbcf0a407e3d0debf0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/580d83a836fdf14ae8332e9353fb0c7a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/580d83a836fdf14ae8332e9353fb0c7a/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6f24dc1a143e33b94b4eb493e83059f4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6f24dc1a143e33b94b4eb493e83059f4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9a5751c4bddab82773770650f9938d27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9a5751c4bddab82773770650f9938d27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/396ccef3e457ef4e1bdc49cd81f2eae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/396ccef3e457ef4e1bdc49cd81f2eae7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/87dce6bfce7f750ec9471200501f98fb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/87dce6bfce7f750ec9471200501f98fb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/46d1e3852b912239e36ff231460fa4e1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/46d1e3852b912239e36ff231460fa4e1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7331f1ded3fee0dbf7c85c18fd05def2/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7331f1ded3fee0dbf7c85c18fd05def2/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7c605b65f3ca19986e3c746881ffb5d5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7c605b65f3ca19986e3c746881ffb5d5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f73630ed2ee7ea5e6318d0ab2d972795/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f73630ed2ee7ea5e6318d0ab2d972795/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/5243f43645197678ef14166279c2e5a7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/5243f43645197678ef14166279c2e5a7/AndroidManifest.xml:20:5-22:41
+MERGED from [nl.littlerobots.rxlint:rxlint:1.6] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0da637a43e2de408c6581a06aa2641df/AndroidManifest.xml:8:5-10:41
+MERGED from [nl.littlerobots.rxlint:rxlint:1.6] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0da637a43e2de408c6581a06aa2641df/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.persistence:db-framework:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c1f9bdabb51c809e97b4a49162fc16ea/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c1f9bdabb51c809e97b4a49162fc16ea/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/3418dcbbabd481e78c53765fb6fb9493/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/3418dcbbabd481e78c53765fb6fb9493/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0a0f32b99ac1a4ef542852dc8c98539a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0a0f32b99ac1a4ef542852dc8c98539a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9ecd71fdebe08fe82f6602a09728a38d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9ecd71fdebe08fe82f6602a09728a38d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/d9ecfa136bf8a7a5a5c4b1ab7ea1937d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/d9ecfa136bf8a7a5a5c4b1ab7ea1937d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c86634a6642ba965778fbbd46030d7b6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c86634a6642ba965778fbbd46030d7b6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/89ae92fc1b9e4f4eaa848dc77c56b20f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/89ae92fc1b9e4f4eaa848dc77c56b20f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/cf705fdd58d8ec6cc6bc34d74b6d1f3f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/cf705fdd58d8ec6cc6bc34d74b6d1f3f/AndroidManifest.xml:4:5-43
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/17c7f2d507ee0109f514dd09a939ed32/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapnil/Downloads/mvvm offline/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/17c7f2d507ee0109f514dd09a939ed32/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0f3a71ceab96a915bc3fcca0fdc43e35/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/0f3a71ceab96a915bc3fcca0fdc43e35/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6f24dc1a143e33b94b4eb493e83059f4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/6f24dc1a143e33b94b4eb493e83059f4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9a5751c4bddab82773770650f9938d27/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/9a5751c4bddab82773770650f9938d27/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/396ccef3e457ef4e1bdc49cd81f2eae7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/396ccef3e457ef4e1bdc49cd81f2eae7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/87dce6bfce7f750ec9471200501f98fb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/87dce6bfce7f750ec9471200501f98fb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/46d1e3852b912239e36ff231460fa4e1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/46d1e3852b912239e36ff231460fa4e1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7331f1ded3fee0dbf7c85c18fd05def2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7331f1ded3fee0dbf7c85c18fd05def2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7c605b65f3ca19986e3c746881ffb5d5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7c605b65f3ca19986e3c746881ffb5d5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f73630ed2ee7ea5e6318d0ab2d972795/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f73630ed2ee7ea5e6318d0ab2d972795/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/17c7f2d507ee0109f514dd09a939ed32/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/17c7f2d507ee0109f514dd09a939ed32/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.birbit:android-priority-jobqueue:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c43b447bb0dad046b6b3b696b59daf88/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [com.birbit:android-priority-jobqueue:2.0.1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/c43b447bb0dad046b6b3b696b59daf88/AndroidManifest.xml:14:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7ea3ff864c8b7529e570f221f8bf49e7/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f828bfe7a9c8e5926e1cacee1c1ca16b/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/f828bfe7a9c8e5926e1cacee1c1ca16b/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/7ea3ff864c8b7529e570f221f8bf49e7/AndroidManifest.xml:20:22-79
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/70ba2c1a42e0d24f8b67f0efa5c5b636/AndroidManifest.xml:26:13-83
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e22610f24262da33427bf33c7558b8bf/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e22610f24262da33427bf33c7558b8bf/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e22610f24262da33427bf33c7558b8bf/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/e22610f24262da33427bf33c7558b8bf/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/580d83a836fdf14ae8332e9353fb0c7a/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/580d83a836fdf14ae8332e9353fb0c7a/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /Users/swapnil/.gradle/caches/transforms-2/files-2.1/580d83a836fdf14ae8332e9353fb0c7a/AndroidManifest.xml:20:20-65
